@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{49A481F4-B498-213D-8F04-D0AEA2AB9B23}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Source/Player/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Source/AI/AIController.cs" Line="66" Column="25" />
+      <File FileName="Assets/Source/Player/PlayerStates/EquipmentStates/UnarmedState.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/EquipmentStates/AxeState.cs" />
+      <File FileName="Assets/Source/Game/UI/UIItemHandler.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/EquipmentStates/BowState.cs" />
+      <File FileName="Assets/Source/Game/UI/GUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Source/Player/PlayerStates/ActivityStates/ActivityState.cs" />
+      <File FileName="Assets/Source/AI/AIState.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/EquipmentStates/EquipmentState.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/MovementStates/MovementState.cs" />
+      <File FileName="Assets/Source/Game/UI/InventoryItem.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/EquipmentStates/PickaxeState.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/MovementStates/SprintingState.cs" />
+      <File FileName="Assets/Source/AI/AIStates/WanderState.cs" />
+      <File FileName="Assets/Source/AI/AIStates/EatState.cs" />
+      <File FileName="Assets/Source/Player/Player.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/MovementStates/RunningState.cs" />
+      <File FileName="Assets/Source/Game/Environment/Environment.cs" />
+      <File FileName="Assets/Source/Game/Game.cs" />
+      <File FileName="Assets/Source/Game/Environment/Spawner.cs" />
+      <File FileName="Assets/Source/Player/PlayerStates/MovementStates/StandingState.cs" Line="39" Column="28" />
+      <File FileName="Assets/Source/Player/CameraController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CET346PPW2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="Source" expanded="True">
+                <Node name="AI" expanded="True">
+                  <Node name="AIStates" expanded="True" />
+                </Node>
+                <Node name="Game" expanded="True">
+                  <Node name="Environment" expanded="True" />
+                  <Node name="UI" expanded="True" />
+                </Node>
+                <Node name="Inventory" expanded="True" />
+                <Node name="Player" expanded="True">
+                  <Node name="PlayerStates" expanded="True">
+                    <Node name="ActivityStates" expanded="True" />
+                    <Node name="EquipmentStates" expanded="True" />
+                    <Node name="MovementStates" expanded="True" />
+                  </Node>
+                  <Node name="CameraController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="536bcc6f-3180-401a-82b4-d92fd0fcca48" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
